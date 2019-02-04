@@ -1,0 +1,41 @@
+oct 29 notes
+< length not <= length because array starts at 0
+int idx = 0
+while (idx < array.length)
+{
+	display (console.writeline(array elements [idx]))
+	idx += idx
+}
+also can do with for loop just put idx++ at the end. and int idx = 0 in middle.
+
+for each loop (specify variable)
+{
+	writeline.writeline(variable);
+}
+
+what it does is it grabs the first value in the array and makes it the variable.
+then it goes on to the second value in the array.
+
+if ( double tryparse(textboxname1.Text; out arrayname(0))
+{
+	if ( double tryparse(textboxname2.Text; out arrayname(1))
+	{
+		if ( double tryparse(textboxname3.Text; out arrayname(2))
+		{
+			for (int idx = 0, idx < scores(arrayname), idx++)
+			total = total + scores[idx];
+			average = total / array length
+			messagebox.show(average.tostring("n3"));
+
+		}
+	}
+}
+        private void showarray(int[] arry)
+        { 
+        for(int i = 0, i < arry.Length, i++)
+            MessageBox.Show(arry[i].ToString());
+}
+
+Arrays are pass by reference
+
+Linear or sequential search.

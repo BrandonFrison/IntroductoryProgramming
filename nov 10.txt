@@ -1,0 +1,11 @@
+nov 10 notes
+
+array sorting you decrease the array by one and always switch the smallest number into [0] then [1] then [2]
+
+private int smallestinteger[ind]
+ind++ int ind=0 etc
+array.length = startScan (to pass in a different value for which array slot each time)
+it changes the subscript number on the first time as it goes through the loop.
+Use a min and max integers.
+For and If loop.
+Swapping: you need to create a temp value and then do the swap like on the midterm.

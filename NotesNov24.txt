@@ -1,0 +1,26 @@
+Notes Nov 24
+Method of Struct is created automatically
+use Var = new TestStruct();  --- constructer (initializes all members automatically)
+when used it will fill all empty list spots with 0 instead of no value.
+new operator creates an object or instance.
+you can say teststruct1 = teststruct2 only if they are from the same structure.
+Messagebox.show(structname.year(<-- struct var))
+Structures are pass by value not pass by ref.
+outside of method do ref in the method arguments and in the one in the other method.
+you cannot compare two structures in boolean using if statement
+you must test for the content which is the milege and year and make etc and use the && operators.
+
+Array of Structure.
+
+            const int SIZE = 3;
+            Automobile[] cars = new Automobile[SIZE];
+
+            cars[0].make = "Ford";
+            cars[0].year = 2011;
+            cars[0].mileage = 2345.56;
+
+            cars[1].make = "Nissan";
+            cars[1].year = 2010;
+            cars[1].mileage = 12345.56;
+
+MB.show(arr[i].make);

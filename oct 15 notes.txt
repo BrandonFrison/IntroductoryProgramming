@@ -1,0 +1,23 @@
+accept data from text box
+open up both files
+Diamond(bool) compare is it end of files for either one of the files
+then read the first record of each file.
+then read the next record to check if its what you entered in the text box
+loop to the start of the comparing
+is the record = to the textbox then add the total
+skip over corrupted data before you add total do a test for it. If true then add to total if false then skip.
+
+check if the first record is equal to what is in the textbox. Don't check for actual names.
+
+Method parameters go right-left for default values.
+
+
+Midterm Stuff:
+If/Switch case
+Loop
+Methods
+GUI FORMS
+arithmetic operators
+logic operators
+for do while loops
+Files

@@ -1,0 +1,99 @@
+nov5 notes
+
+       private void ShowArrayNum(int[] arr)
+        {
+
+            string s = "";
+            foreach (int num in arr)
+                s += num.ToString() + "=";
+
+            MessageBox.Show(s);
+        }
+
+
+        private void CopyRefButton_Click(object sender, EventArgs e)
+        {
+            int[] array1 = { 2,4,6,8,10 };
+            int[] array2 = array1;
+
+            array2[0] = 1000;
+            array1[1] = 0;
+
+            ShowArrayNum(array2);
+            
+
+        }
+
+        private void CopyArrayContent(int[] arr1, int[] arr2)
+        {
+            for (int i = 0; i < arr1.Length; i++)
+            {
+                arr2[i] = arr1[i];
+                
+            }
+            ShowArrayNum(arr1);
+            ShowArrayNum(arr2);
+
+        }
+
+        private void CopyContentButton_Click(object sender, EventArgs e)
+        {
+            int[] array1 = { 2, 4, 6, 8, 10 };
+            int[] array2 = new int[5];
+
+            CopyArrayContent(array1, array2);
+
+            // showing that it copy by content instead of copy by reference variable of the array
+            array1[0] = 1000;
+
+            ShowArrayNum(array1);
+            ShowArrayNum(array2);
+        }
+
+        private bool CompareArrayContent(int[] arr1, int[] arr2)
+        {
+            bool ans = true;
+
+            if (arr1.Length == arr2.Length)
+            {
+                for (int i = 0; i < arr1.Length; i++)
+                {
+                    if (arr1[i] != arr2[i])
+                    {
+                        ans = false;
+                        break;
+                    }
+
+                }
+            }
+            else
+            {
+                ans = false;
+            }
+
+            return ans;
+
+        }
+
+        private void CompareButton_Click(object sender, EventArgs e)
+        {
+            bool same = true;
+            
+            int[] array1 = { 2, 4, 6, 8, 10 };
+            int[] array2 = { 2, 4, 6, 8, 10 };
+            //false they point at different arrays. == tests for what array points at.
+            array1 = array2;
+            
+            if (array1 == array2)
+                MessageBox.Show("True");
+            else
+                MessageBox.Show("False");
+
+            //other way using the method above this one
+
+
+            if (CompareArrayContent(array1, array2) == true)
+                MessageBox.Show("True");
+            else
+                MessageBox.Show("False");
+         }

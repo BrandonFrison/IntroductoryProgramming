@@ -1,0 +1,16 @@
+F:\DouglasCollege\csis1175\wk5\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe.config
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe.config
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.pdb
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.exe
+\\Client\C$\Users\300243731\Downloads\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe.config
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.exe
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.csprojResolveAssemblyReference.cache
+H:\School\Programming\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\bin\Debug\fileCourse1.exe.config
+H:\School\Programming\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.exe
+H:\School\Programming\csis1175F2015Week5_1ForClass\fileCourse1\fileCourse1\obj\Debug\fileCourse1.pdb

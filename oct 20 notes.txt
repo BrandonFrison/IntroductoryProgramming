@@ -1,0 +1,25 @@
+returnig methods
+private int sum(int num1, int num2)
+{
+	int total
+	total = num1 + num2
+	return total;
+}
+
+in another method
+(calling method)
+{
+	total = sum(val1, val2);
+	messagebox.show(total.tostring);
+}
+return at the end of the function
+
+d=1/2gt^2
+g is constant
+
+private double Distance(double time)
+{
+	return = 0.5 * 9.8 * time * time
+}
+
+Messagebox.show(distance(val1)).toString();

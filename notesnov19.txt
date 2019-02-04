@@ -1,0 +1,78 @@
+notes nov 19
+
+Lists are often used in games programming.
+For removing Specific names that you do not know the index value.
+You have to search for the name "Ironside"
+if (!nameList.Remove("Ironside")
+-Remove is a Boolean value.
+using .Remove only removes the First Instance from the list.
+you can also search for parts.
+nameList.Clear() clears off the entire list.
+If you want to search the list for an item:
+nameList.IndexOf input either where you want to search from, or where you want to search start or where you want to search and only search a couple of spots.
+IndexOf is Case Sensitive and leading and trailing spaces affect it.
+
+int pos = namelist.indexof("Magnum");
+if (!pos = -1)
+	"Magnum was found at" + pos;
+else
+	"display not found"
+
+only finds first occurence of magnum.
+do not set it to search for more than the total amount of elements in your list.
+
+        private double Average(List<int> scoresList)
+        {
+            int total = 0;      // Accumulator
+            double average = 0;     // To hold the average
+
+            // Calculate the total of the scores.
+            for (int i = 0; i < scoresList.Count(); i++)
+            {
+                total = total + scoresList[i];
+
+                 // Calculate the average of the scores.
+                average = (double)(total) / scoresList.Count();
+            }
+            // Return the average.
+            return average;
+        }
+
+you can sort for numbers greater than average by making a variable for it (avg = total/score.Count()).
+Then make a for loop i > count. i++
+if score > avg then do command such as number of score = score + 1
+
+OBJECT ORIENTATION APP
+
+Structures are how they introduction it.
+Problem with arrays is if int array it can only contain int, string array can only contain string.
+structures store the different data types.
+-Make of the car (string)
+-Year of the car built ( integer)
+-Milege of the car (double)
+
+struct is the class of it. or the thing you write when declaring it.
+
+then you go:
+
+
+Add public before struct to indicate everyone can access it. Or you can add public before each variable declaration if you want specific ones public only.
+public struct testStruct
+{
+	string structString;
+	int structInt;
+	double structDouble;	
+}
+
+how to use a created structure
+
+in a click event handler
+testStruct LordGilbert;
+LordGilbert.(this will show your variables declared above)
+LordGilbert.structString = "Lord";
+LordGilbert.structInt = 1;
+LordGilbert.structDouble = 2.5;
+
+you can create multiple testStruct names if you want.
+
+struct is a class or template from which objects are created.

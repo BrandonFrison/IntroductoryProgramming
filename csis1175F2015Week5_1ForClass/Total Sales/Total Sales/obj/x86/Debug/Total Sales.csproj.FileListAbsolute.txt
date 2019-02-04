@@ -1,0 +1,18 @@
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+F:\DouglasCollege\csis1175\wk5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\300243731\Desktop\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+H:\School\Programming\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+H:\School\Programming\csis1175F2015Week5_1ForClass\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

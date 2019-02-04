@@ -1,0 +1,33 @@
+Notes Nov 17
+ 
+string str1 =  "    1,4=5,7    ";
+            char[] delim = { ',', '=' };   //use single quotes because Char array.
+            string str2 = "      1,4  ,5=  7  ";
+            string str3 = "aaa bbb ccc ddd";
+
+            str1 = str1.Trim();
+            string[] tokens1 = str1.Split(delim);
+
+            str2 = str2.Trim();
+            str2 = str2.Replace(" ", string.Empty);
+            string[] tokens2 = str2.Split(delim);
+
+
+            string[] tokens3 = str3.Split(null);   //any space character
+            for (int i = 0; i < tokens3.Length; i++)
+                MessageBox.Show("*" + tokens2[i] + "*");  // * to show spaces as well.  Also change tokens1 to tokens2 or tokens3              
+
+
+
+           // dynamically add elements
+            nameList.Add("Test");
+            nameList.Add("Test2");
+            nameList.Add("Test3");
+            nameList.Add("Test4");
+
+            MessageBox.Show(nameList[1]);
+
+            for (int i = 0; i < nameList.Count; i++)
+                displayLlistBox.Items.Add(nameList[i]);
+
+  nameList.RemoveAt(2);  //shrinks array

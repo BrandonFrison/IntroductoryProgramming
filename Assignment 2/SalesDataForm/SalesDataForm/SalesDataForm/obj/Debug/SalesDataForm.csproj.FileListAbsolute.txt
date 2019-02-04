@@ -1,0 +1,24 @@
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe.config
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.pdb
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.csprojResolveAssemblyReference.cache
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.Form1.resources
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.Properties.Resources.resources
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.csproj.GenerateResource.Cache
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.exe
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.pdb
+\\Client\C$\Users\300243731\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe.config
+\\Client\C$\Users\300243731\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.exe
+\\Client\C$\Users\300243731\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.pdb
+C:\Users\Brandon\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe.config
+C:\Users\Brandon\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.exe
+C:\Users\Brandon\Downloads\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.pdb
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe.config
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.exe
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.pdb
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.exe
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\bin\Debug\SalesDataForm.pdb
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.csprojResolveAssemblyReference.cache
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.Form1.resources
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.Properties.Resources.resources
+H:\School\Programming\Assignment 2\SalesDataForm\SalesDataForm\SalesDataForm\obj\Debug\SalesDataForm.csproj.GenerateResource.Cache

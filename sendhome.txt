@@ -1,0 +1,39 @@
+normally program crashes with eg. 0.0g
+if(decimal.tryparse(<file>.readline();out sales)
+form1 load only occurs once.
+Hello world only shown very first time.
+know difference between x++ and ++x
+z = x+++y	x=2 y=10
+z = --x * 2	--x goes first against BEDMAS.
+   int x = 0;
+            int y;
+            y = x++;
+
+            Console.WriteLine(x + " " + y);
+            Console.WriteLine(y);
+            int counter = 1;
+            for (counter = 1; counter <= 10; ++counter)
+            {
+                Console.WriteLine(counter);
+            }
+
+            while (counter <= 10)
+            {
+            Console.WriteLine(counter);
+                counter++;     
+//
+
+        private void demoButton_Click(object sender, EventArgs e)
+        {
+            Displayint(4);
+            Displaydouble(5.8);
+        }
+
+        private void Displayint(int val)
+        {
+            MessageBox.Show("Displayint" + val.ToString());
+        }
+        private void Displaydouble(double val)
+        {
+            MessageBox.Show("Displaydouble" + val.ToString());
+        }

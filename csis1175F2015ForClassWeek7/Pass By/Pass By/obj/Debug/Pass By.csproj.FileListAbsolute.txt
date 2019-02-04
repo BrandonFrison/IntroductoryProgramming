@@ -1,0 +1,30 @@
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\bin\Debug\Pass By.exe.config
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\bin\Debug\Pass By.exe
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\bin\Debug\Pass By.pdb
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass_By.Form1.resources
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass_By.Properties.Resources.resources
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass By.csproj.GenerateResource.Cache
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass By.exe
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass By.pdb
+F:\DouglasCollege\learningCSharp\ch6\Pass By\Pass By\obj\Debug\Pass By.csprojResolveAssemblyReference.cache
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\bin\Debug\Pass By.exe.config
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass By.exe
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass By.pdb
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\bin\Debug\Pass By.exe
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\bin\Debug\Pass By.pdb
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass By.csprojResolveAssemblyReference.cache
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass_By.Form1.resources
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass_By.Properties.Resources.resources
+F:\DouglasCollege\csis1175\wk7\Pass By\Pass By\obj\Debug\Pass By.csproj.GenerateResource.Cache
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\bin\Debug\Pass By.exe.config
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.exe
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.pdb
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\bin\Debug\Pass By.exe
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\bin\Debug\Pass By.pdb
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.csprojResolveAssemblyReference.cache
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass_By.Form1.resources
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass_By.Properties.Resources.resources
+C:\Users\300243731\Desktop\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.csproj.GenerateResource.Cache
+H:\School\Programming\csis1175F2015ForClassWeek7\Pass By\Pass By\bin\Debug\Pass By.exe.config
+H:\School\Programming\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.exe
+H:\School\Programming\csis1175F2015ForClassWeek7\Pass By\Pass By\obj\Debug\Pass By.pdb

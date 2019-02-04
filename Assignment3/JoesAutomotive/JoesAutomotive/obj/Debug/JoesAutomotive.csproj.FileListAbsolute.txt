@@ -1,0 +1,9 @@
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\bin\Debug\JoesAutomotive.exe.config
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.csprojResolveAssemblyReference.cache
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.Form1.resources
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.Properties.Resources.resources
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.csproj.GenerateResource.Cache
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\bin\Debug\JoesAutomotive.exe
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\bin\Debug\JoesAutomotive.pdb
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.exe
+H:\School\Programming\Assignment3\JoesAutomotive\JoesAutomotive\obj\Debug\JoesAutomotive.pdb
